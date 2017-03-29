@@ -5,4 +5,4 @@ MAINTAINER xxz <xxz@cetids.com>
 ENV DEBIAN_FRONTEND noninteractive
 
 
-COPY ./my.cnf /etc/mysql/my.cnf
+COPY ./conf/my.cnf /etc/mysql/my.cnf
